@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Dissolve_Material
-  m_Shader: {fileID: 4800000, guid: b64a7cb803b521648b9658df2cd7a84c, type: 3}
+  m_Name: Dissolve_DOWN_Material
+  m_Shader: {fileID: 4800000, guid: 3c592bcc2e820584b9c0eac3b9c1abe2, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -86,18 +86,18 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _CuttoffHieght: 0
+    - _CuttoffHieght: 2.22
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _EdgeWidth: 0
+    - _EdgeWidth: 0.08
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _NoiseScale: 0
-    - _NoiseStrength: 0
+    - _NoiseScale: 252.55
+    - _NoiseStrength: 0.4
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueOffset: 0
@@ -110,11 +110,11 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
+    - _Albedo: {r: 0.35955858, g: 0.43570793, b: 0.754717, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EmissionColour: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColour: {r: 33.89676, g: 1.4197595, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8486765733819144687
